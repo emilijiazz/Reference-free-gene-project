@@ -38,7 +38,7 @@ Requires the `igraph` package.
 ## Function Usage
 
 ```r
-source("assemble_kmers.R")  # Load the function
+source("assemble_kmers_finalversion.R")  # Load the function
 
 contigs <- assemble_kmers(
   kmers = kmer_count_df$kmer,       # vector of k-mers
