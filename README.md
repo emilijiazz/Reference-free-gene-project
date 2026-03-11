@@ -1,4 +1,4 @@
-# Reference-free-gene-project
+# Reference-free-gene project
 # assemble_kmers:  k-mer Graph Assembly in R, built on Bruijn graph-based approach
 
 ## Overview
