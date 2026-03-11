@@ -30,7 +30,7 @@
 
 ## Installation
 
-Simply copy `assemble_kmers.R` and `print_contig_info` function to your R project.  
+Simply copy `assemble_kmers_finalversion.R` and `print_contig_info` function to your R project.  
 Requires the `igraph` package.
 
 ---
@@ -91,12 +91,7 @@ Output: a single contig merging all k-mers, demonstrating redundancy and robustn
 
 ---
 
-## Limitations
 
-- The function does **not** perform a final merge among assembled contigs.  
-  If one contig is entirely contained within another, you may need extra processing (not usually required for standard k-mer assembly).
-
----
 
 ## Citation
 
